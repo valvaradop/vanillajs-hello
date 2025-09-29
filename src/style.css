@@ -11,14 +11,6 @@ body{
 }
 
 h1 {font-size: 30px;
-    color: blue;
+    color: blue; }
     
-}
 
-button {
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 3px;
-    color: gray;
-
-}

@@ -20,7 +20,7 @@ window.onload = function excusa() {
     let cuando = when [Math.floor(Math.random ()* when.length)];
 
     let excusa= `${quien} ${accion} ${que} ${cuando} `;
-    document.getElementById("excuse").innerHTML=`<strong>${excusa} </strong>`;
+    document.getElementById("excuse").innerHTML=`${excusa}`;
 
 
   console.log (excusa);
