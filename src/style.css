@@ -1,5 +1,24 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    padding: 50px;
     background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+h1 {font-size: 30px;
+    color: blue;
+    
+}
+
+button {
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 3px;
+    color: gray;
+
 }
